@@ -41,13 +41,13 @@ export default function Home() {
           <div id="carouselExample" className="carousel slide">
             <div className="carousel-inner">
               <div className="carousel-item active">
-                <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/7DB1/production/_131577123_gettyimages-1725013151.jpg" className="d-block w-100" alt="..." />
+                <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/7DB1/production/_131577123_gettyimages-1725013151.jpg" className="d-block w-100" alt="" />
               </div>
               <div className="carousel-item">
-                <img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2150879290.jpg?c=16x9&q=h_833,w_1480,c_fill" className="d-block w-100" alt="..." />
+                <img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2150879290.jpg?c=16x9&q=h_833,w_1480,c_fill" className="d-block w-100" alt="" />
               </div>
               <div className="carousel-item">
-                <img src="https://media.cnn.com/api/v1/images/stellar/prod/230903122621-01-jude-bellingham-real-madrid.jpg?c=16x9&q=h_833,w_1480,c_fill" className="d-block w-100" alt="..." />
+                <img src="https://media.cnn.com/api/v1/images/stellar/prod/230903122621-01-jude-bellingham-real-madrid.jpg?c=16x9&q=h_833,w_1480,c_fill" className="d-block w-100" alt="" />
               </div>
             </div>
             <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -67,7 +67,7 @@ export default function Home() {
           <div className="col-sm-4 mb-3 mb-sm-0">
             <div className="card">
               <div className="card-body">
-                <img src="https://cdn.britannica.com/39/239139-050-49A950D1/French-soccer-player-Kylian-Mbappe-FIFA-World-Cup-December-10-2022.jpg" className="img-thumbnail" alt="..." />
+                <img src="https://cdn.britannica.com/39/239139-050-49A950D1/French-soccer-player-Kylian-Mbappe-FIFA-World-Cup-December-10-2022.jpg" className="img-thumbnail" alt="" />
                 <h5 className="card-title"> Mbappe</h5>
                 <p className="card-text">Kylian Mbappe</p>
                 <a href="#" className="btn btn-primary">Go Home</a>
@@ -87,7 +87,7 @@ export default function Home() {
           <div className="col-sm-4 mb-3 mb-sm-0">
             <div className="card">
               <div className="card-body">
-                <img src="https://media.cnn.com/api/v1/images/stellar/prod/230621042149-01-cristiano-ronaldo-euro-200-apps-062023-restricted.jpg?c=original" className="img-thumbnail" alt="..." />
+                <img src="https://media.cnn.com/api/v1/images/stellar/prod/230621042149-01-cristiano-ronaldo-euro-200-apps-062023-restricted.jpg?c=original" className="img-thumbnail" alt="" />
                 <h5 className="card-title">Cristiano Ronaldo</h5>
                 <p className="card-text">Ronaldo</p>
                 <a href="#" className="btn btn-primary">Go Home</a>
